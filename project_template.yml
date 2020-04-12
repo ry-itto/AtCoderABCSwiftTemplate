@@ -1,0 +1,26 @@
+name: PROJECT_NAME
+targets:
+    A:
+        type: tool
+        platform: macOS
+        sources: A
+    B:
+        type: tool
+        platform: macOS
+        sources: B
+    C:
+        type: tool
+        platform: macOS
+        sources: C
+    D:
+        type: tool
+        platform: macOS
+        sources: D
+    E:
+        type: tool
+        platform: macOS
+        sources: E
+    F:
+        type: tool
+        platform: macOS
+        sources: F
